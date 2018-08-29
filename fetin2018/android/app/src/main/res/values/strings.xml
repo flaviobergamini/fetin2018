@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fetin2018</string>
+    <string name="facebook_app_id">288632311953921</string>
+    <string name="fb_login_protocol_scheme">fb288632311953921</string>
+</resources>
